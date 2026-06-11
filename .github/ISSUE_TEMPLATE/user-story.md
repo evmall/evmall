@@ -24,6 +24,8 @@ So that **[benefit/value]**.
 ### Description
 <!-- Use this for complex stories that need extra content -->
 
+</details>
+
 ## Dependencies
 <!-- Link related issues or epics -->
 - Epic: #
