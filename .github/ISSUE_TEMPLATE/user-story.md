@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+---
+title: '[USER STORY]'
+---
 ## User Story
 
 As a **[type of user]**, 
